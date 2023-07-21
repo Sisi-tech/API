@@ -1,6 +1,8 @@
 import requests
 import json
 
+# https://devs.upcitemdb.com/
+
 baseUrl = "https://api.upcitemdb.com/prod/trial/lookup"
 parameters = {'upc': '0885909950805'}
 
